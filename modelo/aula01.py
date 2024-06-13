@@ -36,6 +36,8 @@ filme1.dar_likes()
 print(f'Nome: {filme1.nome} - Ano: {filme1.ano} - Duração {filme1.duracao} - Likes: {filme1.likes}')
 serie1=Serie('greys anatomy', 2005, 20)
 serie1.dar_likes()
+serie1.dar_likes()
+serie1.dar_likes()
 print(f'Nome: {serie1.nome} - Ano: {serie1.ano} - Temporadas {serie1.temporadas} - Likes: {serie1.likes}')
     
 
